@@ -1,0 +1,11 @@
+{
+  "id": "d26e2193",
+  "name": "ChatGPT",
+  "tags": [
+    "default"
+  ],
+  "interpreter": "conda: nonzero",
+  "is_favourite": false,
+  "created_at": "2026-02-20T14:22:13.215077",
+  "updated_at": "2026-02-24T12:20:32.161937"
+}
